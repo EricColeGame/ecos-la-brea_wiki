@@ -1,1 +1,474 @@
-{}
+{
+  "site": {
+    "name": "Ecos La Brea Wiki",
+    "shortName": "Ecos La Brea",
+    "tagline": "Guias de Criaturas, Dicas de Sobrevivência, Mapas e Tier Lists",
+    "description": "Seu wiki definitivo de Ecos La Brea! Explore criaturas jogáveis, estratégias de sobrevivência, dicas de caça, mapas, tier lists e guias de progressão para o jogo de sobrevivência pré-histórico do Roblox.",
+    "legalNotice": "Wiki de fãs não oficial. Feito por jogadores, para jogadores."
+  },
+  "nav": {
+    "guide": "Guia",
+    "characters": "Personagens",
+    "maps": "Mapas",
+    "mechanics": "Mecânicas",
+    "controls": "Controles",
+    "updates": "Atualizações",
+    "codes": "Códigos",
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Ecos La Brea Wiki - Criaturas, Sobrevivência e Guia",
+      "description": "O Ecos La Brea Wiki oferece informações sobre criaturas, guias de sobrevivência, dicas de jogabilidade, mapas, habilidades e tudo o que os jogadores precisam para explorar o mundo de sobrevivência pré-histórico do Roblox."
+    },
+    "hero": {
+      "eyebrow": "Simulador de Sobrevivência Pré-histórica",
+      "title": "Ecos La Brea Wiki",
+      "description": "Ecos La Brea é um jogo de sobrevivência pré-histórico no qual os jogadores controlam criaturas antigas, exploram um ecossistema perigoso, caçam, sobrevivem e interagem com outros jogadores em um mundo realista de dinossauros.",
+      "stats": [
+        "10M+ Visitas Totais",
+        "50+ Criaturas Disponíveis",
+        "0 Códigos Ativos",
+        "Atualizações Semanais"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Guia para Iniciantes",
+      "tertiaryCta": "Códigos Ativos",
+      "videoLabel": "Trailer Oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Ecos La Brea",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Novo nas fossas de piche? Aprenda o ciclo básico de sobrevivência, a escolha de criatura e os primeiros passos que mantêm você vivo na selva pré-histórica."
+        },
+        {
+          "number": "2",
+          "title": "Qual Animal Escolher",
+          "description": "Compare Smilodon, Lobo Pré-histórico, Mamute e muito mais para encontrar a criatura jogável que combina com seu estilo de sobrevivência."
+        },
+        {
+          "number": "3",
+          "title": "Noções Básicas de Caça",
+          "description": "Rastreie presas com cheiro e pegadas, escolha a arma certa e consiga seu primeiro abate sem virar a refeição de outro jogador."
+        },
+        {
+          "number": "4",
+          "title": "Melhores Locais de Coleta",
+          "description": "Siga rotas comprovadas de recursos como sílex, fibra, piche e minério para fabricar ferramentas e equipamentos melhores a cada sessão."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta Agora",
+      "quickLinks": [
+        "Tier List de Animais",
+        "Guia para Iniciantes",
+        "Mapa e Localizações",
+        "Como Caçar"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Tudo o que você precisa, do primeiro nascimento até sobreviver à primeira noite na selva.",
+          "href": "/guide/ecos-la-brea-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Todos os Códigos Funcionais",
+          "description": "Todos os códigos ativos com recompensas e passos de resgate antes que expirem.",
+          "href": "/codes/ecos-la-brea-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Qual Animal Escolher",
+          "description": "Compare todas as criaturas jogáveis e encontre a que combina com seu estilo de jogo.",
+          "href": "/characters/ecos-la-brea-playables"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tier List de Animais",
+          "description": "Todas as criaturas classificadas por poder de combate, mobilidade e valor de sobrevivência.",
+          "href": "/characters/ecos-la-brea-animals"
+        },
+        {
+          "badge": "Novo",
+          "title": "Mapa e Localizações",
+          "description": "Todos os biomas, pontos de recursos e áreas escondidas no mapa de Ecos La Brea.",
+          "href": "/maps/ecos-la-brea-map"
+        },
+        {
+          "badge": "Popular",
+          "title": "Como Caçar",
+          "description": "Rastreamento por cheiro, emboscadas e táticas de finalização para cada predador.",
+          "href": "/guide/ecos-la-brea-how-to-hunt"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Ecos La Brea?",
+      "paragraphs": [
+        "Ecos La Brea é um jogo de sobrevivência pré-histórico no Roblox no qual você joga como uma criatura antiga da Era do Gelo. Nasça em um ecossistema vivo inspirado nas verdadeiras Fossas de Piche de La Brea, escolha um predador como o Smilodon ou o Lobo Pré-histórico, ou um herbívoro como o Mamute Lanudo, e lute para sobreviver em um mundo onde cada animal é outro jogador.",
+        "Domine o rastreamento por cheiro, os chamados das criaturas e o controle de território enquanto conquista seu lugar na cadeia alimentar. Nosso wiki detalha cada espécie jogável, bioma, tática de caça e local secreto para você prosperar das planícies às fossas de piche."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Sobrevivência Pré-histórica"
+        },
+        {
+          "label": "Visitas Totais",
+          "value": "10M+"
+        },
+        {
+          "label": "Criaturas",
+          "value": "50+"
+        },
+        {
+          "label": "Zonas de Bioma",
+          "value": "5"
+        },
+        {
+          "label": "Frequência de Atualização",
+          "value": "Semanal"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explore o Wiki de Ecos La Brea",
+      "description": "Mergulhe em perfis de criaturas, guias de sobrevivência, táticas de caça, mapas e tier lists do jogo de sobrevivência pré-histórico Ecos La Brea no Roblox.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia de Espécies de Ecos La Brea",
+          "description": "Este módulo apresenta os animais pré-históricos jogáveis e suas características únicas, incluindo predadores, herbívoros, habilidades e funções de sobrevivência. Ajuda os usuários que buscam informações sobre animais, criaturas e espécies de Ecos La Brea a encontrar rapidamente detalhes estruturados.",
+          "href": "/characters/ecos-la-brea-animals",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Smilodon",
+              "detail": "Predador de emboscada de topo com o dano explosivo mais letal no início do jogo"
+            },
+            {
+              "label": "Mamute",
+              "detail": "Herbívoro enorme e um dos principais marcos de recursos para grupos coordenados"
+            },
+            {
+              "label": "Lobo Pré-histórico",
+              "detail": "Caçador de matilha veloz que persegue jogadores em terreno aberto"
+            },
+            {
+              "label": "Cavalo",
+              "detail": "Alvo de doma arisco que libera deslocamento mais rápido pelo mapa"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para Iniciantes de Ecos La Brea",
+          "description": "Um guia inicial que aborda mecânicas básicas de sobrevivência, movimento, caça, rastreamento e dicas essenciais para novos jogadores. Esta seção atende às buscas comuns de jogadores que procuram como começar e como sobreviver.",
+          "href": "/guide/ecos-la-brea-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Nasça nas Planícies Centrais e colete sílex, madeira e fibra"
+            },
+            {
+              "label": "2",
+              "detail": "Fabrique um machado de mão e um abrigo básico antes da sua primeira noite"
+            },
+            {
+              "label": "3",
+              "detail": "Aprenda o rastreamento por cheiro para encontrar caça pequena e água doce"
+            },
+            {
+              "label": "4",
+              "detail": "Escolha uma criatura que combine com seu estilo de jogo antes de investir tempo"
+            },
+            {
+              "label": "5",
+              "detail": "Fique longe das fossas de piche até ter corda e equipamento melhor"
+            },
+            {
+              "label": "6",
+              "detail": "Junte-se a um grupo para caçar com mais segurança depois de aprender o básico"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Mecânicas de Jogo de Ecos La Brea",
+          "description": "Os sistemas centrais por trás da sobrevivência em Ecos La Brea, do movimento e rastreamento à caça, território e comportamento das criaturas. Este módulo apresenta os comandos e mecânicas que você usa a cada sessão.",
+          "href": "/controls/ecos-la-brea-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "W A S D",
+              "detail": "Mova-se pelo mundo; segure Shift para correr em terreno aberto"
+            },
+            {
+              "label": "E",
+              "detail": "Interaja com recursos, carcaças e alvos de doma"
+            },
+            {
+              "label": "C",
+              "detail": "Agache-se para passar furtivamente por predadores e sair do rastro de cheiro"
+            },
+            {
+              "label": "M",
+              "detail": "Abra o mapa para planejar rotas entre biomas e zonas seguras"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier List de Animais de Ecos La Brea",
+          "description": "Uma seção de classificação que compara as criaturas jogáveis com base em capacidade de sobrevivência, força de combate, mobilidade e utilidade. Ela atende às buscas relacionadas aos melhores animais e criaturas mais fortes de Ecos La Brea.",
+          "href": "/characters/ecos-la-brea-playables",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Smilodon e Leão Americano dominam lutas abertas com dano explosivo bruto"
+            },
+            {
+              "label": "A",
+              "detail": "Lobo Pré-histórico e Urso de Cara Curta recompensam jogo em matilha e rastreamento preciso"
+            },
+            {
+              "label": "B",
+              "detail": "Mamute Lanudo e Mastodonte trazem enorme resistência com curvas lentas"
+            },
+            {
+              "label": "C",
+              "detail": "Antilocapra e Cavalo Colombiano trocam poder de combate por velocidade e utilidade"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de Mapas de Ecos La Brea",
+          "description": "Este módulo cobre locais importantes, habitats, zonas ambientais e dicas de exploração. Ajuda os usuários que buscam informações sobre o mapa e onde encontrar animais ou recursos específicos.",
+          "href": "/maps/ecos-la-brea-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Planícies",
+              "detail": "Zona inicial segura para iniciantes com madeira, pedra e fibra"
+            },
+            {
+              "label": "Planícies de Piche",
+              "detail": "Piche, osso e minério do meio do jogo ao redor de poças de piche pegajoso"
+            },
+            {
+              "label": "Dossel",
+              "detail": "Plantas raras e madeira de lei escondidas sob a copa escura da floresta"
+            },
+            {
+              "label": "Cordilheira",
+              "detail": "Obsidiana e minério de metal avançados com riscos de erupção"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de Caça de Ecos La Brea",
+          "description": "Um guia detalhado focado em técnicas de caça, rastreamento de presas, estratégias de predadores e táticas de sobrevivência. Ele atende jogadores que buscam melhorias relacionadas a combate e caça.",
+          "href": "/guide/ecos-la-brea-how-to-hunt",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Escolha um alvo que sua criatura realmente possa vencer em um confronto direto"
+            },
+            {
+              "label": "2",
+              "detail": "Aproxime-se com o vento a favor para que o cheiro não entregue você"
+            },
+            {
+              "label": "3",
+              "detail": "Siga rastros e escute chamados para reduzir a distância"
+            },
+            {
+              "label": "4",
+              "detail": "Comece com um ataque pesado, depois bloqueie ou esquive do contra-ataque"
+            },
+            {
+              "label": "5",
+              "detail": "Use o terreno, como penhascos e passagens estreitas, para controlar a luta"
+            },
+            {
+              "label": "6",
+              "detail": "Recolha a carcaça rápido antes que os carniceiros cheguem"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Atualizações e Notícias de Ecos La Brea",
+          "description": "Esta seção reúne anúncios oficiais, atualizações de desenvolvimento, revelações de novas criaturas e informações sobre conteúdo futuro. Mantém os jogadores informados sobre o progresso do jogo e os próximos recursos.",
+          "href": "/updates/ecos-la-brea-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reformulação da IA",
+              "detail": "Os predadores agora espreitam e caçam em matilha em vez de avançar assim que veem você"
+            },
+            {
+              "label": "Fabricação",
+              "detail": "Novas receitas de nível intermediário fazem a ponte entre ferramentas de pedra e equipamentos de osso e resina"
+            },
+            {
+              "label": "Construção",
+              "detail": "As peças de base ganham melhor estabilidade e novas opções estruturais"
+            },
+            {
+              "label": "Correções",
+              "detail": "Dezenas de bugs relatados pela comunidade foram corrigidos no último patch"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Links da Comunidade de Ecos La Brea",
+          "description": "Um hub da comunidade com canais sociais oficiais e recursos importantes para jogadores. Ajuda os usuários a encontrar atualizações dos desenvolvedores, discussões e anúncios da comunidade de Ecos La Brea.",
+          "href": "/updates/ecos-la-brea-event",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Discord oficial de Ecos La Brea para notícias de patch e lançamentos de códigos"
+            },
+            {
+              "label": "Reddit",
+              "detail": "Discussões da comunidade r/EcosLaBrea com dicas e descobertas"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Canal oficial com trailers, atualizações e clipes de jogabilidade"
+            },
+            {
+              "label": "Site",
+              "detail": "Site oficial de Ecos La Brea para anúncios e mídia"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Ecos La Brea.",
+      "items": [
+        {
+          "question": "O que é Ecos La Brea?",
+          "answer": "Ecos La Brea é um jogo de sobrevivência pré-histórico no Roblox no qual você joga como uma criatura antiga da Era do Gelo em um ecossistema inspirado nas verdadeiras Fossas de Piche de La Brea. Cace, rastreie e lute contra outros jogadores como predadores como o Smilodon ou herbívoros como o Mamute Lanudo."
+        },
+        {
+          "question": "Qual criatura os iniciantes devem usar em Ecos La Brea?",
+          "answer": "Comece com uma criatura rápida e tolerante enquanto aprende o mapa e os controles, depois passe para predadores maiores quando conseguir rastrear presas e gerenciar resistência em uma luta."
+        },
+        {
+          "question": "Ecos La Brea é grátis?",
+          "answer": "Sim. Ecos La Brea é gratuito no Roblox, e nenhuma compra é necessária para escolher uma criatura e começar a sobreviver."
+        },
+        {
+          "question": "Como encontro criaturas e outros jogadores em Ecos La Brea?",
+          "answer": "Use rastreamento por cheiro, pegadas e chamados de criaturas para localizar presas e rivais, depois consulte o mapa para saber qual bioma cada espécie prefere."
+        },
+        {
+          "question": "Ecos La Brea tem códigos ativos?",
+          "answer": "Ecos La Brea lança ocasionalmente códigos promocionais para recompensas gratuitas, então confira a página de códigos de Ecos La Brea para a lista atual e os passos de resgate."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Ecos La Brea?",
+      "description": "Dos seus primeiros passos na natureza da Era do Gelo até domar todas as criaturas, nosso wiki da comunidade tem guias gratuitos e atualizados para você.",
+      "primary": "Leia o Guia para Iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de Ecos La Brea",
+    "overviewDescription": "Guias passo a passo de Ecos La Brea cobrindo como jogar, como caçar, dicas de sobrevivência e como desbloquear criaturas como o mamute e o tigre-dentes-de-sabre."
+  },
+  "characters": {
+    "overviewTitle": "Personagens de Ecos La Brea",
+    "overviewDescription": "Navegue por todas as criaturas jogáveis de Ecos La Brea, incluindo o smilodon, o lobo pré-histórico e o cavalo, além de skins, atributos e dicas para escolher seu animal."
+  },
+  "maps": {
+    "overviewTitle": "Mapas de Ecos La Brea",
+    "overviewDescription": "Explore as localizações do mapa de Ecos La Brea, de fósseis e poços de piche a cavernas e as áreas de spawn do mamute e do caititu."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Ecos La Brea",
+    "overviewDescription": "Aprenda as mecânicas centrais de Ecos La Brea, como rastros, território, chamados, instintos, comportamento da IA e combate, para sobreviver mais tempo no ecossistema."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Ecos La Brea",
+    "overviewDescription": "Todos os controles de Ecos La Brea para PC e Xbox, além de como comer, correr e usar cada tecla."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações de Ecos La Brea",
+    "overviewDescription": "Últimas atualizações de Ecos La Brea, novos animais, criaturas futuras, skins, eventos e notícias de data de lançamento."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Ecos La Brea",
+    "overviewDescription": "Todos os códigos ativos de Ecos La Brea e como resgatá-los para recompensas gratuitas no jogo de sobrevivência do Roblox."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação do Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Ecos La Brea Wiki",
+    "about": "O Ecos La Brea Wiki é um hub de guias independente feito por fãs, cobrindo criaturas jogáveis, estratégias de sobrevivência, dicas de caça, mapas e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Ecos La Brea Wiki. Não afiliado à Ecos Team nem ao Roblox.",
+    "description": "Jogo de sobrevivência pré-histórico gratuito no Roblox. Jogue como criaturas antigas da Era do Gelo e sobreviva ao ecossistema de La Brea.",
+    "playGame": "Jogue Ecos La Brea no Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Tier List de Criaturas",
+    "beginnerGuide": "Guia para Iniciantes",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "characterGuides": "Guias de Criaturas",
+    "mapGuides": "Mapas e Localizações",
+    "mechanicsGuides": "Mecânicas do Jogo",
+    "codeGuides": "Códigos"
+  }
+}
