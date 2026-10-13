@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to the tar pits? Learn the core survival loop, creature selection, and the first steps that keep you alive in the prehistoric wild."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Which Animal to Pick",
+          "description": "Compare Smilodon, Dire Wolf, Mammoth, and more to find the playable creature that matches your survival style."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Hunting Basics",
+          "description": "Track prey with scent and footprints, pick the right weapon, and land your first kill without becoming someone else's meal."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Ecos La Brea."
+          "title": "Best Farming Spots",
+          "description": "Follow proven resource loops for flint, fiber, tar, and ore so you can craft better tools and gear every session."
         }
       ]
     },
@@ -66,237 +66,301 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Animal Tier List",
+        "Beginner Guide",
+        "Map & Locations",
+        "How to Hunt"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first spawn to surviving your first night in the wild.",
+          "href": "/guide/ecos-la-brea-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "All Working Codes",
+          "description": "Every active code with rewards and redemption steps before they expire.",
+          "href": "/codes/ecos-la-brea-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Which Animal to Pick",
+          "description": "Compare every playable creature and find the one that fits your playstyle.",
+          "href": "/characters/ecos-la-brea-playables"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Animal Tier List",
+          "description": "All creatures ranked by combat power, mobility, and survival value.",
+          "href": "/characters/ecos-la-brea-animals"
+        },
+        {
+          "badge": "New",
+          "title": "Map & Locations",
+          "description": "Every biome, resource hotspot, and hidden area on the Ecos La Brea map.",
+          "href": "/maps/ecos-la-brea-map"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "How to Hunt",
+          "description": "Scent tracking, ambush setups, and finishing tactics for every predator.",
+          "href": "/guide/ecos-la-brea-how-to-hunt"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Ecos La Brea?",
       "paragraphs": [
-        "Ecos La Brea is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Ecos La Brea is a prehistoric survival game on Roblox where you play as an ancient Ice Age creature. Spawn into a living ecosystem inspired by the real La Brea Tar Pits, choose a predator like the Smilodon or Dire Wolf, or a herbivore like the Woolly Mammoth, and fight to survive in a world where every animal is another player.",
+        "Master scent-based tracking, creature calls, and territory control as you carve out your place in the food chain. Our wiki breaks down every playable species, biome, hunting tactic, and hidden location so you can thrive from the grasslands to the tar pits."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Ecos Team"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Prehistoric Survival"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "10M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Creatures",
+          "value": "50+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Biome Zones",
+          "value": "5"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Update Cadence",
+          "value": "Weekly"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Ecos La Brea Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Dive into creature profiles, survival guides, hunting tactics, maps, and tier lists for the Ecos La Brea prehistoric Roblox survival game.",
       "modules": [
         {
           "order": 1,
-          "name": "Ecos La Brea Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/ecos-la-brea-codes",
-          "displayType": "code-box",
+          "name": "Ecos La Brea Species Guide",
+          "description": "This module introduces the playable prehistoric animals and their unique traits, including predators, herbivores, abilities, and survival roles. It helps users searching for Ecos La Brea animals, creatures, and species information quickly find structured details.",
+          "href": "/characters/ecos-la-brea-animals",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Smilodon",
+              "detail": "Apex ambush predator with the deadliest early-game burst damage"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Mammoth",
+              "detail": "Huge herbivore and a top resource milestone for coordinated groups"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Dire Wolf",
+              "detail": "Fast pack hunter that runs down players across open terrain"
+            },
+            {
+              "label": "Horse",
+              "detail": "Skittish taming target that unlocks faster map traversal"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/ecos-la-brea-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Ecos La Brea Beginner Guide",
+          "description": "A starter guide covering basic survival mechanics, movement, hunting, tracking, and essential tips for new players. This section targets common searches from players looking for how to start and how to survive.",
+          "href": "/guide/ecos-la-brea-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Spawn in the Central Lowlands and gather flint, wood, and fiber"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Craft a hand axe and a basic shelter before your first night"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Learn scent tracking to find small game and fresh water"
+            },
+            {
+              "label": "4",
+              "detail": "Pick a creature that matches your playstyle before investing time"
+            },
+            {
+              "label": "5",
+              "detail": "Keep clear of the tar pits until you carry rope and better gear"
+            },
+            {
+              "label": "6",
+              "detail": "Join a group for safer hunting once you know the basics"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/ecos-la-brea-tier-list",
-          "displayType": "tier-grid",
+          "name": "Ecos La Brea Gameplay Mechanics",
+          "description": "Core systems behind Ecos La Brea survival, from movement and tracking to hunting, territory, and creature behavior. This module previews the inputs and mechanics you rely on every session.",
+          "href": "/controls/ecos-la-brea-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "W A S D",
+              "detail": "Move through the world; hold Shift to sprint across open ground"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "E",
+              "detail": "Interact with resources, carcasses, and taming targets"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "C",
+              "detail": "Crouch to sneak past predators and stay off the scent trail"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "M",
+              "detail": "Open the map to plan routes between biomes and safe zones"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/ecos-la-brea-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Ecos La Brea Animal Tier List",
+          "description": "A ranking section comparing playable creatures based on survival ability, combat strength, mobility, and usefulness. It targets searches related to the best animals and strongest creatures in Ecos La Brea.",
+          "href": "/characters/ecos-la-brea-playables",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Smilodon and American Lion dominate open fights with raw burst damage"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Dire Wolf and Short-Faced Bear reward pack play and tight tracking"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Woolly Mammoth and Mastodon bring huge durability with slow turns"
+            },
+            {
+              "label": "C",
+              "detail": "Pronghorn and Columbian Horse trade combat power for speed and utility"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/ecos-la-brea-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Ecos La Brea Map Guide",
+          "description": "This module covers important locations, habitats, environmental zones, and exploration tips. It helps users searching for map information and where to find specific animals or resources.",
+          "href": "/maps/ecos-la-brea-map",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Lowlands",
+              "detail": "Beginner-safe starting zone with wood, stone, and fiber"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Tar Flats",
+              "detail": "Mid-game tar, bone, and mineral ore around sticky tar pools"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Canopy",
+              "detail": "Rare plants and hardwood hidden under dim forest cover"
+            },
+            {
+              "label": "Ridgeline",
+              "detail": "Advanced obsidian and metal ore with eruption hazards"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/ecos-la-brea-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Ecos La Brea Hunting Guide",
+          "description": "A detailed guide focused on hunting techniques, tracking prey, predator strategies, and survival tactics. It targets players searching for combat and hunting-related improvements.",
+          "href": "/guide/ecos-la-brea-how-to-hunt",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Pick a target your creature can actually beat one-on-one"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Approach from downwind so scent does not give you away"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Follow tracks and listen for calls to close the distance"
+            },
+            {
+              "label": "4",
+              "detail": "Open with a heavy attack, then block or dodge the counter"
+            },
+            {
+              "label": "5",
+              "detail": "Use terrain like cliffs and narrow passes to control the fight"
+            },
+            {
+              "label": "6",
+              "detail": "Harvest the carcass fast before scavengers move in"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Ecos La Brea Updates and News",
+          "description": "This section collects official announcements, development updates, new creature reveals, and future content information. It keeps players informed about the game's progress and upcoming features.",
+          "href": "/updates/ecos-la-brea-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "AI Rework",
+              "detail": "Predators now stalk and pack-hunt instead of rushing on sight"
+            },
+            {
+              "label": "Crafting",
+              "detail": "New mid-tier recipes bridge stone tools and bone-and-resin gear"
+            },
+            {
+              "label": "Building",
+              "detail": "Base pieces gain better stability and new structural options"
+            },
+            {
+              "label": "Fixes",
+              "detail": "Dozens of community-reported bugs resolved in the latest patch"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Ecos La Brea Community Links",
+          "description": "A community hub containing official social channels and important player resources. It helps users find developer updates, discussions, and announcements from the Ecos La Brea community.",
+          "href": "/updates/ecos-la-brea-event",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Official Ecos La Brea Discord for patch news and code drops"
+            },
+            {
+              "label": "Reddit",
+              "detail": "r/EcosLaBrea community threads for tips and discoveries"
+            },
+            {
+              "label": "YouTube",
+              "detail": "Official channel with trailers, updates, and gameplay clips"
+            },
+            {
+              "label": "Website",
+              "detail": "Official Ecos La Brea site for announcements and media"
             }
           ]
         }
@@ -308,23 +372,23 @@
       "items": [
         {
           "question": "What is Ecos La Brea?",
-          "answer": "Ecos La Brea is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Ecos La Brea is a prehistoric survival game on Roblox where you play as an ancient Ice Age creature in an ecosystem inspired by the real La Brea Tar Pits. Hunt, track, and fight other players as predators like the Smilodon or herbivores like the Woolly Mammoth."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which creature should beginners play in Ecos La Brea?",
+          "answer": "Start with a fast, forgiving creature while you learn the map and controls, then move to bigger predators once you can track prey and manage stamina in a fight."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is Ecos La Brea free to play?",
+          "answer": "Yes. Ecos La Brea is free to play on Roblox, and no purchase is needed to pick a creature and start surviving."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I find creatures and other players in Ecos La Brea?",
+          "answer": "Use scent tracking, footprints, and creature calls to locate both prey and rivals, then check the map to learn which biome each species favors."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Ecos La Brea have active codes?",
+          "answer": "Ecos La Brea occasionally releases promotional codes for free rewards, so check the Ecos La Brea codes page for the current list and redemption steps."
         }
       ]
     },
