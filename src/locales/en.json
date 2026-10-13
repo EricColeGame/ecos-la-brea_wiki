@@ -7,6 +7,13 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "maps": "Maps",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "updates": "Updates",
+    "codes": "Codes",
     "home": "Home",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
@@ -399,7 +406,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Ecos La Brea Guide",
+    "overviewDescription": "Step-by-step Ecos La Brea guides covering how to play, how to hunt, survival tips, and how to unlock creatures like the mammoth and saber-toothed cat."
+  },
+  "characters": {
+    "overviewTitle": "Ecos La Brea Characters",
+    "overviewDescription": "Browse every playable Ecos La Brea creature, including the smilodon, dire wolf, and horse, plus skins, stats, and tips for choosing your animal."
+  },
+  "maps": {
+    "overviewTitle": "Ecos La Brea Maps",
+    "overviewDescription": "Explore Ecos La Brea map locations, from fossil and tar pit spots to caves and the mammoth and peccary spawn areas."
+  },
+  "mechanics": {
+    "overviewTitle": "Ecos La Brea Mechanics",
+    "overviewDescription": "Learn core Ecos La Brea mechanics like tracks, territory, calls, instincts, AI behavior, and combat so you can survive longer in the ecosystem."
+  },
+  "controls": {
+    "overviewTitle": "Ecos La Brea Controls",
+    "overviewDescription": "Full Ecos La Brea controls for PC and Xbox, plus how to eat, sprint, and use every key binding."
+  },
+  "updates": {
+    "overviewTitle": "Ecos La Brea Updates",
+    "overviewDescription": "Latest Ecos La Brea updates, new animals, upcoming creatures, skins, events, and release date news."
+  },
+  "codes": {
+    "overviewTitle": "Ecos La Brea Codes",
+    "overviewDescription": "All active Ecos La Brea codes and how to redeem them for free rewards in the Roblox survival game."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -430,10 +464,11 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Creature Tier List",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "characterGuides": "Creature Guides",
+    "mapGuides": "Maps & Locations",
+    "mechanicsGuides": "Game Mechanics",
+    "codeGuides": "Codes"
   }
 }
