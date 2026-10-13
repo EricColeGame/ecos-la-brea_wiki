@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Creature Guides, Survival Tips, Maps & Tier Lists",
   description: "Your ultimate Ecos La Brea wiki! Explore playable creatures, survival strategies, hunting tips, maps, tier lists, and progression guides for the prehistoric Roblox survival game.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://ecos-la-brea.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://ecos-la-brea.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@ecos-la-brea.wiki",
   gameUrl: "https://www.roblox.com/games/12550651382/Ecos-La-Brea",
   heroVideoId: "nOfquDXj0xI", // ECOS: LA BREA | OFFICIAL TRAILER
   social: {
